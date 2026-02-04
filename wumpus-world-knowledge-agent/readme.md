@@ -33,7 +33,7 @@ The agent perceives local sensory inputs, updates a knowledge base with logical 
 The project follows an agent–environment architecture with clear separation of concerns: agent
 logic, environment dynamics, knowledge representation, visualization, and orchestration.
 
-
+```text
 WumpusWorldProject/
 ├── README.md              # Main project documentation (GitHub)
 ├── requirements.txt       # Project dependencies
