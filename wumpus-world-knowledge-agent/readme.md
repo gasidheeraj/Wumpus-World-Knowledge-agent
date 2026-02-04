@@ -52,7 +52,7 @@ WumpusWorldProject/
     ├── knowledge_base.py  # Knowledge Base & logical reasoning
     ├── renderer.py        # Pygame visualization
     └── utils.py           # Helper functions (neighbors, etc.)
-
+```
 ## Installation and Setup
 Follow the steps below to set up and run the project:
 
